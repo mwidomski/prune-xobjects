@@ -8,6 +8,7 @@ import argparse
 
 #TODO: Better argument parsing (allow wildcards etc.)
 #TODO: Custom output paths
+#TODO: Add logging
 
 def init_argparse() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
